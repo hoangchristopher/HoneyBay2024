@@ -1,7 +1,6 @@
-# Project, BeeSure 🐝🧑‍⚕🏥
+# Project: BeeSure 🐝🧑‍⚕🏥
 by Honey Bay (Alan Tran, Christoper Hoang, Jade Kang, Soomin Han) 
 Meta, Best of Social Good*
-RamenVR, Fantasy World*
 
 <br>
 
@@ -32,7 +31,7 @@ Throughout the games, performance data is gathered and sent to healthcare provid
 <br>
 
 ## acknowledgment
-This project would not have been possible without the inspiration and collaboration from the Honey Bay team. We would also like to extend our thanks to the following:
+This project would not have been possible without the inspiration and collaboration of the Honey Bay team. We would also like to extend our thanks to the following:
 
 
 <li> Meta Quest 3 and Unity: For enabling us to bring this project to life through immersive XR technology.</li>
