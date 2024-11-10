@@ -1,9 +1,11 @@
 # Project, BeeSure 🐝🧑‍⚕🏥
 by Honey Bay (Alan Tran, Christoper Hoang, Jade Kang, Soomin Han) 
+Meta, Best of Social Good*
+RamenVR, Fantasy World*
 
 <br>
 
-## project overviewhttps://github.com/hoangchristopher/honeybay/blob/main/README.md
+## project overview
 BeeSure is an innovative XR (Extended Reality) experience designed to make cerebellar exams more accessible and engaging for patients at home. With many patients facing barriers to visiting healthcare facilities, this project offers a convenient, interactive way for them to monitor their health from the comfort of their own homes. Through two game-like stages, users can perform cerebellar self-assessments, and their performance data is collected and shared with their doctors for customized feedback. The goal is to reduce healthcare expenses and promote greater participation in self-monitoring.
 
 <br>
